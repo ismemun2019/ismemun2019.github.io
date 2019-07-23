@@ -1,17 +1,17 @@
 # site settings
-title: ISME MUN 2019
-subtitle: by ISME students
-email: youremailaddress@gmail.com
+title: ISME MUN 
+subtitle: 2019
+email: ismemun2019@gmail.com
 description: A Model United Nations organized by the students of ISME.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ismemun2019.github.io"# the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: ISME, Sarjapur road, Dommasandra
+city: Bangalore
+state: Karnataka
+zip_code: 562125
+country: India
+phone: 08880612345
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,14 +20,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/ismemun2019
+gitlab_url: 
+googleplus_url: 
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/ismemun2019
 
 # build settings
 markdown: kramdown
