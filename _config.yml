@@ -1,7 +1,7 @@
 # site settings
 title: ISME MUN 
 subtitle: 2019
-email: ismemun2019@gmail.com
+email: isme.mun2019@gmail.com
 description: A Model United Nations organized by the students of ISME.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ismemun2019.github.io"# the base hostname & protocol for your site
