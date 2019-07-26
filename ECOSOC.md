@@ -2,7 +2,7 @@
 layout: page
 title: ECOSOC
 description: Economic and Social Council
-image: assets/images/pic11.jpg
+image: assets/images/ecosoc.jpg
 nav-menu: true
 ---
 

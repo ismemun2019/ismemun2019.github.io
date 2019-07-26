@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 description: About ISME MUN
-image: assets/images/logo.png
+image: assets/images/logo1.jpeg
 nav-menu: true
 ---
 
