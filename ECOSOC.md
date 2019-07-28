@@ -12,7 +12,7 @@ is the principal body for coordination, policy review, policy dialogue and recom
 economic, social and environmental issues, as well as for implementation of internationally
 agreed development goals.*
 
-Agenda: Sustainable development of Latin America
+#### Agenda: Sustainable development of Latin America
 
 The Economic and Social Council (ECOSOC) is the United Nation’s
 central platform for reflection, debate, and innovative thinking on sustainable development.
