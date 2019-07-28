@@ -7,11 +7,11 @@ nav-menu: true
 agenda: Disarmament in the Middle East
 ---
 
+#### Agenda: Disarmament in the Middle East
+
 *The DISEC deals with disarmament, global challenges and threats to peace that affect the
 international community and seeks out solutions to the challenges in the international security
 regime.*
-
-#### Agenda: Disarmament in the Middle East
 
 It considers all disarmament and international security matters within the scope of the Charter or
 relating to the powers and functions of any other organ of the United Nations; the general principles
