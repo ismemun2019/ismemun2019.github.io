@@ -4,7 +4,8 @@ title: AIPM
 description: All India Parties Meet
 image: assets/images/aipm.jpg
 nav-menu: true
-agenda: Reviewing the Anti Sedition Framework in India--
+agenda: Reviewing the Anti Sedition Framework in India
+---
 
 *The AIPM is a forum for every corner of the Indian polity to express their views.*
 
