@@ -11,8 +11,7 @@ city: Bangalore
 state: Karnataka
 zip_code: 562125
 country: India
-phone: 08880612345
-
+phone: +91 89306 26121
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
