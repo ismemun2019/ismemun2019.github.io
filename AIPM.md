@@ -14,4 +14,4 @@ agenda: Reviewing the Anti Sedition Framework in India
 It is an attempt at bringing consensus regarding issues that purge the world’s largest democracy. It is a forum to learn
 of the high standards set by the Indian constitution and an attempt to measure up to it.
 
-#### [Party Matrix](https://drive.google.com/file/d/0B6Qs-nyOS6j4VEZNdzduc2J3eDR3d29YaEwweFBXUFY3NXBj/view?usp=sharing)
+#### [Party Matrix(Updated)](https://drive.google.com/file/d/0B6Qs-nyOS6j4dmNVUkdCbW16MG1pR0tRa2lDN0JpOUtseVpB/view?usp=sharing)
