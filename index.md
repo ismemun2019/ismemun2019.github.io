@@ -10,3 +10,5 @@ show_tile: false
 
 - **Conference dates:** 17th &amp; 18th August, 2019.
 - **Orientation date:** 10th August, 2019.
+
+Cash Prizes of upto ₹20,00 available.
