@@ -15,3 +15,5 @@ It is an attempt at bringing consensus regarding issues that purge the world’s
 of the high standards set by the Indian constitution and an attempt to measure up to it.
 
 #### [Party Matrix(Updated)](https://drive.google.com/file/d/0B6Qs-nyOS6j4dmNVUkdCbW16MG1pR0tRa2lDN0JpOUtseVpB/view?usp=sharing)
+
+#### Background Guide can be found [here.](https://drive.google.com/file/d/0B6Qs-nyOS6j4RGZqQUk4Tnh3dTJNQnRNXzVxay03dDRfUFhj/view?usp=sharing)

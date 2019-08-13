@@ -20,3 +20,5 @@ governing disarmament and the regulation of armaments; promotion of cooperative 
 and measures aimed at strengthening stability through lower levels of armaments.
 
 #### [Country Matrix](https://docs.google.com/spreadsheets/d/1YFyxhhz-eU_wTWukDGJAZmAxQ99oXDP6lATiJzeYfaM/edit?usp=sharing)
+
+#### Background Guide can be found [here.](https://drive.google.com/file/d/0B6Qs-nyOS6j4a2dkbkF2WmdGRmphOTd0OWM2b3RZT25Vb0Zr/view?usp=sharing)

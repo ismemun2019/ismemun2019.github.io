@@ -12,3 +12,5 @@ show_tile: false
 - **Orientation date:** 10th August, 2019.
 
 Cash Prizes of upto ₹20,000 available for delegates who get placed.
+
+### BACKGROUND GUIDES ARE OUT FOR ALL COMMITTEES. PLEASE CLICK ON YOUR COMMITTEE BELOW.
