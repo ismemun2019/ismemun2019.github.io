@@ -15,4 +15,4 @@ Cash Prizes of upto ₹20,000 available for delegates who get placed.
 
 ### BACKGROUND GUIDES ARE OUT FOR ALL COMMITTEES. PLEASE CLICK ON YOUR COMMITTEE BELOW.
 
- ##### The reuired orientation slides for the above are present [here.](https://drive.google.com/file/d/0B6Qs-nyOS6j4R25TNHlHS1VwZF93LWppRUtoU3llYzVDXzgw/view?usp=sharing) 
+##### The required orientation slides for the above are present [here.](https://drive.google.com/file/d/0B6Qs-nyOS6j4R25TNHlHS1VwZF93LWppRUtoU3llYzVDXzgw/view?usp=sharing) 
