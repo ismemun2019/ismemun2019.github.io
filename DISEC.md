@@ -21,3 +21,5 @@ and measures aimed at strengthening stability through lower levels of armaments.
 
 #### [Country Matrix](https://docs.google.com/spreadsheets/d/1YFyxhhz-eU_wTWukDGJAZmAxQ99oXDP6lATiJzeYfaM/edit?usp=sharing)
 
+#### Background Guide can be found [here.](https://drive.google.com/file/d/0B6Qs-nyOS6j4QURTTnhlZjFZUDhVR2c5cmZLQ0NJTGRGRlE4/view?usp=sharing)
+
